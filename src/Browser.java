@@ -16,6 +16,7 @@ public class Browser {
 	System.out.println(element);
 	
 	
+	
 	}
 
 }
